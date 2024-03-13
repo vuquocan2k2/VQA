@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBqkn3bnH2uhb/FdOiQ0+BvP0QLfvjI2LAmX+isMgA4u2TmO/qp1clt+tvJjhh6ulsbtMfzQBAk7hZAN+Qpq/w==",
+  "success": true,
+  "projectFilePath": "/Users/buiducan/Desktop/KTPhanmem/KTPM-Buoi4/ClassLibrary1/BasicMath.csproj",
+  "expectedPackageFiles": [
+    "/Users/buiducan/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/buiducan/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
